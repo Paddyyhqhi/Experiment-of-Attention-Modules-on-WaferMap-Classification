@@ -1,6 +1,6 @@
 # Experiment-of-Attention-Modules-on-WaferMap-Classification
 ## Objective
-  -This project maily focuses on discovering the infleunces brought by different attention modules on residual networks. Those attention modules derive from **CBAM**, **DANet** and **PAN**. Also, each model is tested on **WM811K** dataset for futher evaluation. In addition the numerical performances, such as accracy and f1-score, we also adopt GradCAM and GradCAM++ for visualization. Noted that all the class activation maps are captured before entering the average pooling layer consecutively connected with classifier. Eventually, in this experiment we apply pre-trained resnet34 as backbone to compare the perofrmances only.
+    This project maily focuses on discovering the infleunces brought by different attention modules on residual networks. Those attention modules derive from **CBAM**, **DANet** and **PAN**. Also, each model is tested on **WM811K** dataset for futher evaluation. In addition the numerical performances, such as accracy and f1-score, we also adopt GradCAM and GradCAM++ for visualization. Noted that all the class activation maps are captured before entering the average pooling layer consecutively connected with classifier. Eventually, in this experiment we apply pre-trained resnet34 as backbone to compare the perofrmances only.
 ## Files Intorduction
 ### myFunc.py
 All the training, testing, evaluation functions are contained in thise file. Futhermore, the functions that help showing GradCAM, GradCAM++ or fixing the random seeds are available in this .py file.
