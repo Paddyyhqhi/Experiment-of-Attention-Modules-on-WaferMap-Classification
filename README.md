@@ -22,7 +22,7 @@ Replcae the squeeze and extension parts of spatial, channel attention module int
 ![CBAM_DA](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/91edb7ea-d673-42b1-b382-c97391a38b46)
 ### PAN_DA
 Integrate the feautre map of PAN and DA by model fusion.
-![PAN_DA](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/e4a17204-a53e-4e00-8ad6-40d3c3860304)
+![PAN_DA](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/4891e640-af64-4ee2-9ccc-8742dcb9f1f9)
 ### PAN_Inverse
 Modify the GAU into GAD to merge feature maps of different level but from low-level to higher one.
 ![PAN_inv](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/38218c75-7b8f-4cca-8393-1627c642a09b)
