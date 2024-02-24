@@ -20,16 +20,16 @@ Provide the evalutaions of different modified models.
 
 ## Modifications
 * **CBAM_DA**
-Replcae the squeeze and extension parts of spatial, channel attention module into position, channel attention modules in DANet.\<br>
+Replcae the squeeze and extension parts of spatial, channel attention module into position, channel attention modules in DANet. \<br>
 ![CBAM_DA](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/91edb7ea-d673-42b1-b382-c97391a38b46)
 * **PAN_DA**
-Integrate the feautre map of PAN and DA by model fusion.\<br>
+Integrate the feautre map of PAN and DA by model fusion. \<br>
 ![PAN_DA](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/4891e640-af64-4ee2-9ccc-8742dcb9f1f9)
 * **PAN_Inverse**
-Modify the GAU into GAD to merge feature maps of different level but from low-level to higher one.\<br>
+Modify the GAU into GAD to merge feature maps of different level but from low-level to higher one. \<br>
 ![PAN_inv](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/38218c75-7b8f-4cca-8393-1627c642a09b)
 * **PAN_DualInverse**
-Add another branch of Global Attention Donwsmaple Spatial to consider not only the aspect of channel integration.\<br>
+Add another branch of Global Attention Donwsmaple Spatial to consider not only the aspect of channel integration. \<br>
 ![PAN_DualInverse](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/9e52d084-644c-4ddb-bea1-47a67d825355)
 
 
