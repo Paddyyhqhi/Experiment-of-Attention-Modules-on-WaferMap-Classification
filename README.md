@@ -10,5 +10,5 @@ Filled in the future.
 ### results.ipynb
 Provide the evalutaions of different modified models.
 ## Models
-This part provide the graphs of models for people to understading the modifications more intuitively.
+This part provide the graphs of models for more intuitively understading the modifications.
 
