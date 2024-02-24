@@ -4,7 +4,7 @@ This project maily focuses on discovering the infleunces brought by different at
 
 ## Files Intorduction
 * myFunc.py
-  * All the training, testing, evaluation functions are contained in thise file. Futhermore, the functions that help showing GradCAM, GradCAM++ or fixing the random seeds are available in this .py file.
+  - All the training, testing, evaluation functions are contained in thise file. Futhermore, the functions that help showing GradCAM, GradCAM++ or fixing the random seeds are available in this .py file.
 * models.ipynb
 Filled in the future.
 * results.ipynb
