@@ -10,23 +10,23 @@ Filled in the future.
 ### results.ipynb
 Provide the evalutaions of different modified models.
 ## Basic Models
-### DANet
+### 1. DANet
 ![DANet](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/69fef376-6afd-40f0-94bf-836d020c6f08)
-### CBAM
+### 2. CBAM
 ![CBAM](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/65f9c4ea-011e-4669-b392-92e1450d4660)
-### PAN
+### 3. PAN
 ![PAN](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/b5702bcf-207b-4fb6-b6ab-cb9a46f3c1af)
 ## Modifications
-### CBAM_DA
+### 1. CBAM_DA
 Replcae the squeeze and extension parts of spatial, channel attention module into position, channel attention modules in DANet.
 ![CBAM_DA](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/91edb7ea-d673-42b1-b382-c97391a38b46)
-### PAN_DA
+### 2. PAN_DA
 Integrate the feautre map of PAN and DA by model fusion.
 ![PAN_DA](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/4891e640-af64-4ee2-9ccc-8742dcb9f1f9)
-### PAN_Inverse
+### 3. PAN_Inverse
 Modify the GAU into GAD to merge feature maps of different level but from low-level to higher one.
 ![PAN_inv](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/38218c75-7b8f-4cca-8393-1627c642a09b)
-### PAN_DualInverse
+### 4. PAN_DualInverse
 Add another branch of Global Attention Donwsmaple Spatial to consider not only the aspect of channel integration.
 ![PAN_DualInverse](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/9e52d084-644c-4ddb-bea1-47a67d825355)
 
