@@ -11,5 +11,10 @@ Filled in the future.
 Provide the evalutaions of different modified models.
 ## Models
 This part provide the graphs of models for more intuitively understading the modifications.
-![DANet](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/b2eb2fd9-3cc7-4859-b7c3-648eb2cbab5b)
+### DANet
+![DANet](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/69fef376-6afd-40f0-94bf-836d020c6f08)
+### CBAM
+![CBAM](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/65f9c4ea-011e-4669-b392-92e1450d4660)
+
+
 
