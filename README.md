@@ -20,7 +20,7 @@ Provide the evalutaions of different modified models.
 
 ## Modifications
 * **CBAM_DA**
-Replcae the squeeze and extension parts of spatial, channel attention module into position, channel attention modules in DANet. <br/>
+  Replcae the squeeze and extension parts of spatial, channel attention module into position, channel attention modules in DANet. <br/>
 ![CBAM_DA](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/91edb7ea-d673-42b1-b382-c97391a38b46)
 * **PAN_DA**
 Integrate the feautre map of PAN and DA by model fusion. <br/>
