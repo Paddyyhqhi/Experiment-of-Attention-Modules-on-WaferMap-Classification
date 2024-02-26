@@ -52,7 +52,7 @@ class CustomDataset(Dataset):
             # np.moveaxis(sample.numpy(), 0, -1)
 
         return sample, label
-def get_dataset(size, bs, seed, agument=True):
+def get_dataset(size, bs, seed, augment=True):
     if agument:
         dataset = pd.read_pickle("dataset_aug.pkl")
     else:
