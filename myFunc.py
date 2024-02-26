@@ -53,7 +53,7 @@ class CustomDataset(Dataset):
 
         return sample, label
 def get_dataset(size, bs, seed, augment=True):
-    if agument:
+    if augment:
         dataset = pd.read_pickle("dataset_aug.pkl")
     else:
         dataset = pd.read_pickle("dataset.pkl")
