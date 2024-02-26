@@ -6,7 +6,7 @@
 ### myFunc.py
 * All the training, testing, evaluation functions are contained in thise file. Futhermore, the functions that help showing GradCAM, GradCAM++ or fixing the random seeds are available in this .py file.
 ### models.ipynb
-* Filled in the future.
+* Contain basic models and modified models, which the basic models are referred to github source code shown in the references.
 ### results.ipynb
 * Provide the evalutaions of different modified models.
 
