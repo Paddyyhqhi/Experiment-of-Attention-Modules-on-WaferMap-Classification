@@ -292,6 +292,6 @@ if __name__ == "__main__":
     epochs = 10
     learning_rate = 1e-4
     model, history = training(train, test, model, epochs, learning_rate, device)
-    evaluate(test, model, history, "Modle Name")
+    evaluate(test, model, history, device, "Modle Name")
     
     show_GradCam(test, model, device)
