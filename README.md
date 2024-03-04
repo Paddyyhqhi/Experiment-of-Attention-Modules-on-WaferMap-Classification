@@ -32,6 +32,11 @@
 * Add another branch of Global Attention Donwsmaple Spatial to consider not only the aspect of channel integration.
 ![PAN_DualInverse](https://github.com/Paddyyhqhi/Experiment-of-Attention-Modules-on-WaferMap-Classification/assets/126771856/9e52d084-644c-4ddb-bea1-47a67d825355)
 
+## References
+1. DANet : https://github.com/junfu1115/DANet
+2. PAN : https://github.com/JaveyWang/Pyramid-Attention-Networks-pytorch
+3. CBAM : https://github.com/luuuyi/CBAM.PyTorch
+
 
 
 
